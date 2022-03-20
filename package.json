@@ -1,0 +1,23 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "revisoin.js",
+  "scripts": {
+    "dev": "nodemon ./revision",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohammed-Hamada/Code.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mohammed-Hamada/Code/issues"
+  },
+  "homepage": "https://github.com/Mohammed-Hamada/Code#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
